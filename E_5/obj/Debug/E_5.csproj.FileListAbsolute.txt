@@ -1,0 +1,7 @@
+C:\Users\Axel\source\repos\Guia Matrices\E_5\bin\Debug\E_5.exe.config
+C:\Users\Axel\source\repos\Guia Matrices\E_5\bin\Debug\E_5.exe
+C:\Users\Axel\source\repos\Guia Matrices\E_5\bin\Debug\E_5.pdb
+C:\Users\Axel\source\repos\Guia Matrices\E_5\obj\Debug\E_5.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\Guia Matrices\E_5\obj\Debug\E_5.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Guia Matrices\E_5\obj\Debug\E_5.exe
+C:\Users\Axel\source\repos\Guia Matrices\E_5\obj\Debug\E_5.pdb
